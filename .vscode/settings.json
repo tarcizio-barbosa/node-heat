@@ -6,4 +6,5 @@
   },
   "editor.formatOnSave": true,
   "prettier.singleQuote": true
+  // "workbench.colorTheme": "Dracula"
 }
